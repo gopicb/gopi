@@ -1,0 +1,1 @@
+msiexec.exe /i VFP9SP2-KB2708941-x86-ENU.msi /qn /l*v "c:\temp\vfp.log" REBOOT=ReallySuppress ALLUSERS=1
